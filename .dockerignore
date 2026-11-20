@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+env
+.git/
+.vscode/
+.streamlit/
+raw_intake_data/
+*.duckdb
+*.duckdb.wal
